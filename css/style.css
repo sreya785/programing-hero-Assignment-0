@@ -26,6 +26,15 @@ nav{
    padding: 12.5px 16px 12.5px 16px;
    cursor: pointer;
 }
+.btn:hover{
+    box-shadow: 0px 4px 25px rgba(48,184,104,0.5);
+}
+.btn1:hover{
+    box-shadow: 0px 4px 25px rgba(48,184,104,0.5);
+}
+.btn2:hover{
+    box-shadow: 0px 4px 25px rgba(48,184,104,0.5);
+}
 
 .frontpage{
     background-image: url(../assets/hero-bg.png);
@@ -110,6 +119,9 @@ nav{
     font-style: bold;
 
 }
+.page-content02 p {
+    color: #627382;
+}
 .p2{
    
     color: #627382;
@@ -139,7 +151,7 @@ nav{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.06);
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     background: rgba(255, 255, 255, 1);
 }
 
