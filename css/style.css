@@ -155,6 +155,10 @@ nav{
     background: rgba(255, 255, 255, 1);
 }
 
+.card:hover{
+    background-color: rgb(153, 215, 146);
+}
+
 .p1{
     text-align: center;
     font-size: 24px;
